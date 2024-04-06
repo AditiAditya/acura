@@ -28,8 +28,8 @@ width: 100%;
 /* height: px;  */
 display: flex;
 justify-content: space-between;
-padding-left: 15%;
-padding-right: 15%;
+padding-left: 12%;
+padding-right: 17%;
 padding-top: 10px;
 }
 
@@ -52,8 +52,8 @@ color: rgb(255, 255, 255);
 #white {
 display: flex;
 justify-content: space-between;
-padding-left: 15%;
-padding-right: 20%;
+padding-left: 12%;
+padding-right: 17%;
 background-color: rgb(255, 255, 255);
 width: 100%;
 height: 45px;
@@ -107,4 +107,84 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
     transform: translate(-50, -50);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blue2{
+  padding-top: 15px;
+  padding-left: 140px;
+  padding-right: 17%;
+width: 100%;
+height: 110px;
+background-color: rgba(39, 32, 87, 0.922);
+
+}
+#whiteblue{
+font-size: 19px;
+margin-bottom: 4px;
+margin-top: 8px;
+font-weight: 100;
+color: rgb(255, 255, 255);
+opacity: 0.9;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#para{
+display: flex;
+font-size: 15px;
+margin-top: 7px;
+justify-content: space-between;
+/* margin-right: 2332px; */
+padding-right: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+pq{
+font-size: 80%;
+padding-right: 90px;
+color: white;
+opacity: 0.6;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+width: 90px;
+font-size: 9px;
+border-radius: 5px;
+border-color: white;
+background-color: rgb(255, 255, 212);
+/* box-shadow: 0 8px 16px 0 rgba(255, 255, 45, 0.489), 0 6px 20px 0 rgba(255, 255, 44, 0.42); */
+}
+
+
+.longwhite{
+width: 100%;
+height: 550px;
+background-color: rgb(255, 255, 255);
+padding-left: 11%;
+padding-right: 11%;
+padding-top: 52px;
+}
+
+h4{
+  
+  color: rgba(39, 32, 87, 0.922);
+  font-size: 35px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+pw{
+font-size: 13px;
+/* padding-top: 33%; */
+font-weight: 400;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#profile{
+width: 100%;
+height: 100%;
+color: blue;
+
 }
