@@ -182,9 +182,19 @@ font-weight: 400;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#profile{
+.profile{
 width: 100%;
 height: 100%;
-color: blue;
-
+background-color: rgb(240, 70, 110);
+padding-top: 30px; 
 }
+
+
+#box{
+   margin-top: 20px; 
+width: 550px;
+height: 100px;
+ background-color: rgb(255, 14, 14); 
+border-radius: 5px;
+}
+
