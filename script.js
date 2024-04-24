@@ -1,7 +1,4 @@
-//  var name = prompt('what is your name ?');
-
-
-// var username = prompt( 'what is your age buddy  ?' );
-//  var number = Number(username);
-//  console.log(number + 2);
-//  var colour = prompt ('what is your favourite colour ?');
+// var username = prompt( "what is your name ?")
+// var age = prompt("what is your age buddy?")
+// var age = number ('what is your name buddy?')
+// console.log = (age+1)
