@@ -108,8 +108,22 @@
 // console.log("you entered correct no ")
 
 
-const mean = (a, b, c, d)=> {
-    return (a + b + c+  d)/4
-}
+// const mean = (a, b, c, d)=> {
+//     return (a + b + c+  d)/4
+// }
 
-console.log(mean(4, 5, 6, 7))
+// console.log(mean(4, 5, 6, 7))
+
+
+// let a = "AAMAadi"
+// console.log   (a. toLowerCase())
+
+
+
+
+
+ let marks =  [ 23, 34, 53 ,  43 ,  true,  "notpresent" ];
+//  console.log ("this is the marks length of class 12 students ",marks.length)
+console.log(marks)
+marks.concat(4)
+console.log(marks)
