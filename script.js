@@ -122,8 +122,21 @@
 
 
 
- let marks =  [ 23, 34, 53 ,  43 ,  true,  "notpresent" ];
-//  console.log ("this is the marks length of class 12 students ",marks.length)
-console.log(marks)
-marks.concat(4)
-console.log(marks)
+//  let marks =  [ 23, 34, 53 ,  43 ,  true,  "notpresent" ];
+// //  console.log ("this is the marks length of class 12 students ",marks.length)
+// console.log(marks)
+// marks.concat(4)
+// console.log(marks)
+
+var x = {};
+x . prop1 = "prop1val"
+x . prop2= "prop2val"
+console.log(x)
+
+var y = [];
+
+y . push(1);
+y . push("a")
+y. push("bn")
+y. pop("bn")
+console.log(y)
