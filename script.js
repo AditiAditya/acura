@@ -122,18 +122,20 @@
 
 
 
-//  let marks =  [ 23, 34, 53 ,  43 ,  true,  "notpresent" ];
-// //  console.log ("this is the marks length of class 12 students ",marks.length)
-// console.log(marks)
-// marks.concat(4)
-// console.log(marks)
+// //  let marks =  [ 23, 34, 53 ,  43 ,  true,  "notpresent" ];
+// // //  console.log ("this is the marks length of class 12 students ",marks.length)
+// // console.log(marks)
+// // marks.concat(4)
+// // console.log(marks)
 
-// 
+// // 
 
-const arry = [];
-const obj = {};
+// const arry = [ ];
+// const obj = {};
 
-obj [1]= 0;
-obj [2] = 1;
-obj [3] = 2;
+// obj [1]= 0;
+// obj [2] = 1;
+// obj [3] = 2;
+
+var a = 
 
